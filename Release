@@ -1,8 +1,8 @@
-Origin: Auto IOS
-Label: Auto IOS
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Auto IOS - a cydia repo template
+Description: Reposi3 - a cydia repo template
