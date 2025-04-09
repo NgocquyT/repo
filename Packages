@@ -3,7 +3,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.opa334.ccsupport
-Filename: ./debs/com.hackyouriphone.puck_1.deb
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/com.hackyouriphone.puck_1.deb
 Size: 1529062
 MD5sum: 5df86c9a1ecde035d5a5a69ae9e18873
 SHA1: b888667afc3e491fb4fbbf7a2ad4d3374476acfa
@@ -23,7 +23,7 @@ Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
-Filename: ./debs/com.ichitaso.powerselector11.deb
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/com.ichitaso.powerselector11.deb
 Size: 215644
 MD5sum: 993217fb63151e4971ec8e36cf0161b4
 SHA1: b9aa25e09562aa21f876b72de03c81d3f1be5212
@@ -42,20 +42,20 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 dev: ichitaso
 
 Package: com.ienthach.XoaInfo
-Version: 2.12-8
+Version: 2.14-7
 Architecture: iphoneos-arm
 Maintainer: Nguyen Quang Vu (ienthach) <ienthach87@gmail.com>
 Depends: firmware (>= 7.0), mobilesubstrate, com.rpetrich.rocketbootstrap, curl, openssh
-Filename: ./debs/com.ienthach.xoainfo.deb
-Size: 5994924
-MD5sum: ee919cf3c952cc9aa626b04881e3f3b3
-SHA1: c20ae1d00ea97032e05718f86a7ad77cec7116d0
-SHA256: 6affee6a6c10002d51693912dc0c81016b435a15823f2cb20355e19f2580183d
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/com.ienthach.XoaInfo_2.14-7_iphoneos-arm.deb
+Size: 5808542
+MD5sum: 8bbdaa9ee6ff9817d5d9d40712f94e72
+SHA1: cb951606a6f739fcd756c00b0bd83e653306fbea
+SHA256: aaa4a8967568e365b0207ff092e9ad9254b8bd282c468fed9894614424e3c5bc
 Section: Utilities
 Description: Tool RRS for mmo iOS
 Author: Nguyen Quang Vu (ienthach) <ienthach87@gmail.com>
-Depiction: http://XoaInfo.com/xoainfo/depiction/xoainfo.php
-Homepage: http://XoaInfo.com/
+Depiction: https://XoaInfo.com/xoainfo/depiction/xoainfo.php
+Homepage: https://XoaInfo.com/
 Name: Xoa Info 2015
 
 Package: com.mins.ramleakprevent
@@ -63,7 +63,7 @@ Version: 0.0.1-16+debug
 Architecture: iphoneos-arm
 Maintainer: Mins
 Depends: jetslammed
-Filename: ./debs/com.mins.ramleakprevent_0.0.1-16+debug_iphoneos-arm.deb
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/com.mins.ramleakprevent_0.0.1-16+debug_iphoneos-arm.deb
 Size: 3112
 MD5sum: cd1346b68006bb02299f6ffdd3a0d333
 SHA1: ce776574212a02a66e48b978c5973a99fee38ea7
@@ -80,7 +80,7 @@ Version: 1.4.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs/com.ps.ytlegacy_1.4.0_iphoneos-arm.deb
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/com.ps.ytlegacy_1.4.0_iphoneos-arm.deb
 Size: 7198
 MD5sum: 37c4b76775bf09c1ad83b05ba776e7e1
 SHA1: 631c4ed58a367332e4faa373496d7ecbd8658f3d
@@ -98,7 +98,7 @@ Version: 1.7.12-4+debug
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs/com.ps.ytx_1.7.12-4+debug_iphoneos-arm.deb
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/com.ps.ytx_1.7.12-4+debug_iphoneos-arm.deb
 Size: 3042
 MD5sum: 1ec347e0f1d7a478357cc10ff675c740
 SHA1: 95d650f5f8e332d6e81e5506428853a6ee76ce12
@@ -116,7 +116,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: shiftcmdk
 Depends: mobilesubstrate
-Filename: ./debs/com.shiftcmdk.autoalerts.deb
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/com.shiftcmdk.autoalerts.deb
 Size: 101892
 MD5sum: a47320321361cd2ffd649a3d0026723d
 SHA1: 853da48d0826736417560bb0cfe6f056d9811b8c
@@ -132,10 +132,10 @@ Package: jp.akusio.kernbypass-unofficial
 Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: ichitaso
-Depends: mobilesubstrate, preferenceloader, libactivator , me.autotouch.AutoTouch.ios8.inputtext , net.kenhtao.appdatamanager , net.kenhtao.icleanerpro , applist , com.hackyouriphone.puck , com.ichitaso.powerselector11 , com.ienthach.XoaInfo , com.mins.ramleakprevent , com.ps.ytlegacy , com.ps.ytx , com.kidsautopro.kidssupport
+Depends: mobilesubstrate, preferenceloader , libactivator , me.autotouch.AutoTouch.ios8.inputtext , net.kenhtao.appdatamanager , net.kenhtao.icleanerpro , applist , com.hackyouriphone.puck , com.ichitaso.powerselector11 , com.ienthach.XoaInfo , com.mins.ramleakprevent , com.ps.ytlegacy , com.ps.ytx , com.kidsautopro.kidssupport
 Conflicts: jp.akusio.kernbypass, com.apple.memecity
 Replaces: jp.akusio.kernbypass-unofficial
-Filename: ./debs/jp.akusio.kernbypass-unofficial_0.0.5.deb
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/jp.akusio.kernbypass-unofficial_0.0.5.deb
 Size: 144922
 MD5sum: 88664e2a63933c4ba6c58a13936d4299
 SHA1: d2eed190bf07e978ec7e78c4f3ae5c39729a91f2
@@ -152,27 +152,11 @@ Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
 Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
 dev: akusio, Misty, ichitaso, XsF1re
 
-Package: com.kidsautopro.kidsautosetting
-Version: 1.2-22
-Architecture: iphoneos-arm
-Maintainer: Dev by KidsAuto Team
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.kidsprivate.kidsrestore, com.kidsauto.sslkillswitch2
-Filename: ./debs/KidsSetting1222.deb
-Size: 61566
-MD5sum: 32239ba95a760e208b81ab1136ee953e
-SHA1: 7b115aac2d16a4a23d5f299482152382fc84d008
-SHA256: c0036b4397ae6a6960de2a61565079e4112c922dfb03ae3b5c0bc77c047f8617
-Section: Tweaks
-Description: Utilities to support KidsAuto Pro, Fixed SSL to Bugs App!!!
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/kidsauto91>
-Name: KidsAutoSetting
-
 Package: com.kidsautopro.kidssupport
 Version: 1.11-10-2-1
 Architecture: iphoneos-arm
 Maintainer: KidsAuto Teams
-Filename: ./debs/KidsSupport.deb
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/KidsSupport.deb
 Size: 1180664
 MD5sum: 37366f13d004156ae949f1e4b524b8b0
 SHA1: 2ad007258a987c8c0043f80fd0ab29740192ca7a
@@ -191,7 +175,7 @@ Architecture: iphoneos-arm
 Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Filename: ./debs/me.autotouch.AutoTouch.ios8.inputtext.deb
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/me.autotouch.AutoTouch.ios8.inputtext.deb
 Size: 26461766
 MD5sum: c16716bbc1d4af016e5b7c30889574bf
 SHA1: 0ccc1a3d70b2b90435399e61a9f4225887c0f491
@@ -209,7 +193,7 @@ Package: net.kenhtao.appdatamanager
 Version: 1.6.1-11
 Architecture: iphoneos-arm
 Maintainer: Kênh Táo
-Filename: ./debs/net.kenhtao.appdatamanager.deb
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/net.kenhtao.appdatamanager.deb
 Size: 2531260
 MD5sum: 33602027bd268aae0a7cb03d176cc1e3
 SHA1: 777cb5fcb347772c6e69aabfc64f83aa634fe853
@@ -231,7 +215,7 @@ Maintainer: Kênh Táo
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/net.kenhtao.icleanerpro.deb
+Filename: C:/Users/Administrator/Documents/GitHub/yt/yt/debs/net.kenhtao.icleanerpro.deb
 Size: 4804842
 MD5sum: e238f15a7983a0c97ae5c0e674f12e17
 SHA1: 32f740e4a22f764bbffbdd6c3962dc2c17311fde
