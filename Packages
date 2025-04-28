@@ -1,3 +1,16 @@
+Package: com.kidsautopro.kidsautosetting
+Name: KidsAuto Settings
+Version: 1.6.24
+Architecture: iphoneos-arm
+Description: Utilities to support KidsAuto Pro, Fixed SSL to Bugs App!!!
+Author: KidsAuto Pro - CườngTrần <https://www.facebook.com/kidsauto91>
+Maintainer: Dev by KidsAuto Teams
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, applist, com.kidsautopro.kidssupport
+Filename: ./debs/KidsSetting1624.deb
+Size: 48804
+MD5sum: 61dae4c5f1a284967b40d3faaa494169
+
 Package: com.hackyouriphone.puck
 Version: 1.1
 Architecture: iphoneos-arm
@@ -128,7 +141,7 @@ Package: jp.akusio.kernbypass-unofficial
 Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: ichitaso
-Depends: mobilesubstrate, preferenceloader , libactivator , me.autotouch.AutoTouch.ios8.inputtext , net.kenhtao.appdatamanager , net.kenhtao.icleanerpro , applist , com.hackyouriphone.puck , com.ichitaso.powerselector11 , com.ienthach.XoaInfo , com.mins.ramleakprevent , com.ps.ytlegacy , com.mins.ytfix , com.kidsautopro.kidssupport
+Depends: mobilesubstrate, preferenceloader , libactivator , me.autotouch.AutoTouch.ios8.inputtext , net.kenhtao.appdatamanager , net.kenhtao.icleanerpro , applist , com.hackyouriphone.puck , com.ichitaso.powerselector11 , com.ienthach.XoaInfo , com.mins.ramleakprevent , com.ps.ytlegacy , com.mins.ytfix , com.kidsautopro.kidsautosetting
 Conflicts: jp.akusio.kernbypass, com.apple.memecity
 Replaces: jp.akusio.kernbypass-unofficial
 Filename: ./debs/jp.akusio.kernbypass-unofficial_0.0.5.deb
