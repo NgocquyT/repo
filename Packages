@@ -144,7 +144,7 @@ Package: jp.akusio.kernbypass-unofficial
 Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: ichitaso
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader , com.hackyouriphone.puck , com.ichitaso.powerselector11 ,com.ienthach.XoaInfo , com.mins.ramleakprevent , com.mins.ytfix , com.parrotgeek.globalize , com.ps.ytlegacy , jetslammed , com.kidsautopro.kidsautosetting , me.autotouch.AutoTouch.ios8.inputtext , net.kenhtao.appdatamanager , net.kenhtao.icleanerpro
 Conflicts: jp.akusio.kernbypass, com.apple.memecity
 Replaces: jp.akusio.kernbypass-unofficial
 Filename: ./debs/jp.akusio.kernbypass-unofficial_0.0.5.deb
@@ -168,7 +168,7 @@ Package: com.kidsautopro.kidsautosetting
 Version: 1.6.24
 Architecture: iphoneos-arm
 Maintainer: Dev by KidsAuto Teams
-Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.parrotgeek.globalize , com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, applist, com.kidsautopro.kidssupport
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader , com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, applist, com.kidsautopro.kidssupport
 Filename: ./debs/KidsSetting1624.deb
 Size: 48804
 MD5sum: 61dae4c5f1a284967b40d3faaa494169
