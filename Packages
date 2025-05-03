@@ -1,16 +1,3 @@
-Package: com.kidsautopro.kidsautosetting
-Name: KidsAuto Settings
-Version: 1.6.24
-Architecture: iphoneos-arm
-Description: Utilities to support KidsAuto Pro, Fixed SSL to Bugs App!!!
-Author: KidsAuto Pro - CườngTrần <https://www.facebook.com/kidsauto91>
-Maintainer: Dev by KidsAuto Teams
-Section: Tweaks
-Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, applist, com.kidsautopro.kidssupport
-Filename: ./debs/KidsSetting1624.deb
-Size: 48804
-MD5sum: 61dae4c5f1a284967b40d3faaa494169
-
 Package: com.hackyouriphone.puck
 Version: 1.1
 Architecture: iphoneos-arm
@@ -104,6 +91,22 @@ Author: Mins
 Installed-Size: 76
 Name: YTFix
 
+Package: com.parrotgeek.globalize
+Version: 0.3.2
+Architecture: iphoneos-arm
+Maintainer: parrotgeek1
+Depends: mobilesubstrate, firmware (>= 9)
+Filename: ./debs/com.parrotgeek.globalize_0.3.2_iphoneos-arm.deb
+Size: 7816
+MD5sum: e077609eb500e79601da35e9a42d9d45
+SHA1: dcd79c583debdbd7b1f41261bd4887e4221baea7
+SHA256: 879fc3eec14c46990eb93ef295d9294997492931c83d2ed02439d8d311a739b0
+Section: Tweaks
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+Author: parrotgeek1
+Installed-Size: 552
+Name: Globalize fix ch/a
+
 Package: com.ps.ytlegacy
 Version: 1.4.0
 Architecture: iphoneos-arm
@@ -141,7 +144,7 @@ Package: jp.akusio.kernbypass-unofficial
 Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: ichitaso
-Depends: mobilesubstrate, preferenceloader , libactivator , me.autotouch.AutoTouch.ios8.inputtext , net.kenhtao.appdatamanager , net.kenhtao.icleanerpro , applist , com.hackyouriphone.puck , com.ichitaso.powerselector11 , com.ienthach.XoaInfo , com.mins.ramleakprevent , com.ps.ytlegacy , com.mins.ytfix , com.kidsautopro.kidsautosetting
+Depends: mobilesubstrate, preferenceloader
 Conflicts: jp.akusio.kernbypass, com.apple.memecity
 Replaces: jp.akusio.kernbypass-unofficial
 Filename: ./debs/jp.akusio.kernbypass-unofficial_0.0.5.deb
@@ -160,6 +163,21 @@ Name: KernBypass (Unofficial)
 Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
 Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
 dev: akusio, Misty, ichitaso, XsF1re
+
+Package: com.kidsautopro.kidsautosetting
+Version: 1.6.24
+Architecture: iphoneos-arm
+Maintainer: Dev by KidsAuto Teams
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, applist, com.kidsautopro.kidssupport
+Filename: ./debs/KidsSetting1624.deb
+Size: 48804
+MD5sum: 61dae4c5f1a284967b40d3faaa494169
+SHA1: 6a4f670c990b70920017a5bd0e027cf6df6ff8df
+SHA256: f6d9eaa20d2ee90484428129443340d2338d5eb08dad0d994b5a91f1fad374bb
+Section: Tweaks
+Description: Utilities to support KidsAuto Pro, Fixed SSL to Bugs App!!!
+Author: KidsAuto Pro - CườngTrần <https://www.facebook.com/kidsauto91>
+Name: KidsAuto Settings
 
 Package: com.kidsautopro.kidssupport
 Version: 1.11-10-2-1
