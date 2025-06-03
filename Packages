@@ -144,7 +144,7 @@ Package: jp.akusio.kernbypass-unofficial
 Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: ichitaso
-Depends: mobilesubstrate, preferenceloader , com.hackyouriphone.puck , libactivator , com.ichitaso.powerselector11 ,com.ienthach.XoaInfo , com.mins.ramleakprevent , com.mins.ytfix , com.parrotgeek.globalize , com.ps.ytlegacy , jetslammed , com.kidsautopro.kidsautosetting , me.autotouch.AutoTouch.ios8.inputtext , net.kenhtao.appdatamanager , net.kenhtao.icleanerpro
+Depends: mobilesubstrate, preferenceloader , com.hackyouriphone.puck , libactivator , com.ichitaso.powerselector11 ,com.ienthach.XoaInfo , com.mins.ramleakprevent , com.mins.ytfix , com.ps.ytlegacy , jetslammed , com.kidsautopro.kidsautosetting , me.autotouch.AutoTouch.ios8.inputtext , net.kenhtao.appdatamanager , net.kenhtao.icleanerpro
 Conflicts: jp.akusio.kernbypass, com.apple.memecity
 Replaces: jp.akusio.kernbypass-unofficial
 Filename: ./debs/jp.akusio.kernbypass-unofficial_0.0.5.deb
